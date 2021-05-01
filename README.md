@@ -25,4 +25,8 @@ Even though December is a little less hot, the temperature statistices is not ve
 See screen prints of Summary Statistics in the Output folder:
 
 1. June_Temperatures.png
+![June_Temperatures](https://user-images.githubusercontent.com/78666055/116785673-d1510280-aa68-11eb-8fe4-e1e2de4f1290.png)
+
 2. December_Temperatures.png
+![December_Temperatures](https://user-images.githubusercontent.com/78666055/116785682-d8781080-aa68-11eb-9d53-3a642dc1f3fe.png)
+
